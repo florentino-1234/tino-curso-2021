@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # prueba tecnica microservicios spring boot
 
 > Atendiendo el reto Code Challenge 
@@ -56,3 +57,6 @@ Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/co
 
 Echo por Carlos Adrian Soto Botero.
 Se elimina la ultima linea
+=======
+primera linea
+>>>>>>> f0136b8a8c071aec7d675d868a964c7bd26c241a
