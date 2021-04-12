@@ -59,4 +59,9 @@ Echo por Carlos Adrian Soto Botero.
 Se elimina la ultima linea
 =======
 primera linea
+<<<<<<< HEAD
 >>>>>>> f0136b8a8c071aec7d675d868a964c7bd26c241a
+=======
+segunda line
+tercera linea
+>>>>>>> 33f72ac37ad07aa3c3b3e285e97ad8d7b4f83c52
